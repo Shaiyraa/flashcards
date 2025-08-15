@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Wymień rasy krów mięsnych pochodzące z Włoch",
+    "answer": "Chianina, Marchigiana, Romagnola",
+    "known": false
+  },
+  {
+    "id": 2,
+    "title": "Jakie jest największe zwierzę lądowe?",
+    "answer": "Słoń afrykański",
+    "known": false
+  },
+  {
+    "id": 3,
+    "title": "Kto napisał 'Zabić drozda'?",
+    "answer": "Harper Lee",
+    "known": false
+  },
+  {
+    "id": 4,
+    "title": "Jakie jest stolicą Francji?",
+    "answer": "Paryż",
+    "known": false
+  },
+  {
+    "id": 5,
+    "title": "Kiedy rozpoczęła się II wojna światowa?",
+    "answer": "1 września 1939 roku",
+    "known": false
+  }
+]
